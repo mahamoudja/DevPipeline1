@@ -2,7 +2,7 @@
 from flask import Flask
 
 PORT = 9090
-MESSAGE = ''' Test baby, YEAHHHHHHHHHHHHHHHHHHH AAAAAAAAAAAAAAAAAAAAAAAAAA <br/><br/><br/><br/><br/><br/><br/><br/>
+MESSAGE = ''' CI/CD PIPELINE success <br/><br/><br/><br/><br/><br/><br/><br/>
 Welcome back Fahad AAAAAAAAAAAAAAAAAAAAAAAAAAAAA <br/><br/>
 !!!!!!!!!!!!!!!!!Bismillah!!!!!!!!!!!!!!!!!  <br/><br/>
 Knowledge necessitates actions, and actions in Islam are only accetped once they fulfil two condtions.<br/><br/>
